@@ -1,5 +1,8 @@
 # Move Issues
 
+[![npm](https://badge.fury.io/js/probot-move-issues.svg)](https://www.npmjs.com/package/probot-move-issues)
+
+
 Move Issues is a GitHub App built with [Probot](https://github.com/probot/probot)
 that moves issues to a different repository.
 
